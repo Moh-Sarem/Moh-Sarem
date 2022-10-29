@@ -32,8 +32,10 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 👨‍🔧 **I am currently, working on new machine-learning projects for identifying the authors of documents using both acoustics features and stylo-based features. If you're keen to join me in contributing, let's connect!**
 
 ## **How to reach me**
-[![Twitter**](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-al-sarem/)
+[![Twitter**](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Dr_M_H_A) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-al-sarem/)
 
-
+***
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+***
+![](https://komarev.com/ghpvc/?username=Moh-Sarem)
 
