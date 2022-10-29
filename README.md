@@ -46,7 +46,7 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 4. [Tutorials](##Tutorials)
 
 ***
-## Courses I taught {#Courses
+## Courses I taught {#Courses}
 
 ***
 ## <a name="Datasets"> Datasets </a>
