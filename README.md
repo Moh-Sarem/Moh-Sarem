@@ -40,13 +40,13 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 ![](https://komarev.com/ghpvc/?username=Moh-Sarem)
 
 ## Portfolio Contents
-1. [Courses I taught](#Courses)
+1. [Courses I taught](#courses-i-taught)
 2. [Datasets](##Datasets)
 3. [Research project]()
 4. [Tutorials](##Tutorials)
 
 ***
-## Courses I taught {#Courses}
+## Courses I taught 
 
 ***
 ## <a name="Datasets"> Datasets </a>
