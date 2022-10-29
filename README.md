@@ -41,15 +41,15 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 
 ## Portfolio Contents
 1. [Courses I taught](#courses-i-taught)
-2. [Datasets](##Datasets)
-3. [Research project]()
-4. [Tutorials](##Tutorials)
-
+2. [Datasets](#datasets)
+3. [Research Project](#research-projects)
+4. [Tutorials](#tutorials)
 ***
 ## Courses I taught 
 
 ***
-## <a name="Datasets"> Datasets </a>
+## Datasets
 ***
-
-## <a name="Tutorials"> Tutorials </a>
+## Research Projects
+***
+## Tutorials
