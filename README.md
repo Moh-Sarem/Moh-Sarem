@@ -46,7 +46,7 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 4. [Tutorials](#tutorials)
 ***
 ## Courses I taught 
-
+1. [IS372 Introduction to data mining]()
 ***
 ## Datasets
 ***
