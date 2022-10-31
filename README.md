@@ -53,4 +53,4 @@ I published over +40 articles in peer-reviewed journals and about 29 conference 
 ## Research Projects
 ***
 ## Tutorials
-1. [Prediction Models from Design to Deployment](https://github.com/Moh-Sarem/Courses/tree/main/IS372)
+1. [Prediction Models from Design to Deployment](https://github.com/Moh-Sarem/Tutorials/blob/main/README.md)
